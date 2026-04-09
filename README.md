@@ -8,3 +8,9 @@ Changes:
 4. Some other small changes
 
 This is a WIP mod and more info will come later on.
+
+Videos Showcasing Changes: 
+
+https://youtu.be/4Y_2OPRqGgY
+
+https://youtu.be/8DqYJcbkRB4
