@@ -1,3 +1,5 @@
+Made with help from Jaek_
+
 Replaces old weapon names with new ones, which are (subjectivly) better.
 
 Changes:
@@ -14,3 +16,5 @@ Videos Showcasing Changes:
 https://youtu.be/4Y_2OPRqGgY
 
 https://youtu.be/8DqYJcbkRB4
+
+Jaek told me this file was cursed
