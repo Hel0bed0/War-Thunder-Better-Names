@@ -20,4 +20,4 @@ https://youtu.be/4Y_2OPRqGgY
 
 https://youtu.be/8DqYJcbkRB4
 
-Jaek_ said he sent the file to war_Tinder to fix it
+Jaek_ said he sent the file to war_Tinder to fix it so I gotta credit that
