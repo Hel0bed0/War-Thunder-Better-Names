@@ -1,6 +1,6 @@
 To install, follow a lang mod tutorial and then place "units_weaponry.csv" in the lang folder (replace file)
 
-Made with help from Jaek_
+Made with a little help from Jaek_
 
 Replaces old weapon names with new ones, which are (objectivly) better.
 
