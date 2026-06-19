@@ -24,4 +24,4 @@ Jaek_ said he sent the file to war_Tinder to fix it so I gotta credit that
 
 
 
-Work is currently being done to add Heavy Cavalry update weapons.
+Will be supporting Heavy Cavelry on release day.
