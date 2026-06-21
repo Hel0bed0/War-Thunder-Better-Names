@@ -7,8 +7,8 @@ Replaces old weapon names with new ones, which are (objectivly) better.
 # Changes:
 
 1. Differant names for things
-2. Shows what type of guidence in the short name
-3. Removes unnecessary weapon type in long name (eg; removes air-to-air missile from AAMs)
+2. Shows what type of guidence in the short name and long name
+3. Reworks the name format
 4. Addes info that you'd'nt find without this (eg, shows if M117 is the 45 cone or not).
 5. Some other small things
 
