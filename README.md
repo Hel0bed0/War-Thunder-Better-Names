@@ -4,7 +4,7 @@ Made with a little help from Jaek_
 
 Replaces old weapon names with new ones, which are (objectivly) better.
 
-Changes:
+# Changes:
 
 1. Differant names for things
 2. Shows what type of guidence in the short name
@@ -16,9 +16,8 @@ This is a WIP mod.
 
 Videos Showcasing Changes: 
 
-https://youtu.be/4Y_2OPRqGgY
+https://youtu.be/UqllqV1mNcA
 
-https://youtu.be/8DqYJcbkRB4
 
 Jaek_ said he sent the file to war_Tinder to fix it so I gotta credit that
 
