@@ -6,7 +6,7 @@ Replaces old weapon names with new ones, which are (objectivly) better.
 
 # IMPORTANT!
 
-Aircraft names are *very* WIP!
+Aircraft names are *very* WIP and only on WIP branch!
 
 # Changes:
 
