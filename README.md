@@ -4,13 +4,19 @@ Made with a little help from Jaek_
 
 Replaces old weapon names with new ones, which are (objectivly) better.
 
+# IMPORTANT!
+
+Aircraft names are *very* WIP and only on WIP branch!
+
 # Changes:
 
 1. Differant names for things
-2. Shows what type of guidence in the short name and long name
+2. Shows what type of guidence in the short name and long name for weapons
 3. Reworks the name format
 4. Addes info that you'd'nt find without this (eg, shows if M117 is the 45 cone or not).
 5. Some other small things
+6. Shows aircraft manufacturer in aircraft stat card name
+7. Some names are made to not be accurate but to be funny, if you don't like that change it yourself
 
 This is a WIP mod.
 
